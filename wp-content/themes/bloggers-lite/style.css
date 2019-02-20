@@ -54,12 +54,12 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('fonts/montserratlight/montserrat-light-webfont.eot');
-    src: url('fonts/montserratlight/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
-        url('fonts/montserratlight/montserrat-light-webfont.woff2') format('woff2'),
-        url('fonts/montserratlight/montserrat-light-webfont.woff') format('woff'),
-        url('fonts/montserratlight/montserrat-light-webfont.ttf') format('truetype'),
-        url('fonts/montserratlight/montserrat-light-webfont.svg#montserratlight') format('svg');
+    src: url('https://exa.fansub.cc/wp-content/themes/bloggers-lite/fonts/montserratlight/montserrat-light-webfont.eot');
+    src: url('https://exa.fansub.cc/wp-content/themes/bloggers-lite/fonts/montserratlight/montserrat-light-webfont.eot#iefix') format('embedded-opentype'),
+        url('https://exa.fansub.cc/wp-content/themes/bloggers-lite/fonts/montserratlight/montserrat-light-webfont.woff2') format('woff2'),
+        url('https://exa.fansub.cc/wp-content/themes/bloggers-lite/fonts/montserratlight/montserrat-light-webfont.woff') format('woff'),
+        url('https://exa.fansub.cc/wp-content/themes/bloggers-lite/fonts/montserratlight/montserrat-light-webfont.ttf') format('truetype'),
+        url('https://exa.fansub.cc/wp-content/themes/bloggers-lite/fonts/montserratlight/montserrat-light-webfont.svg#montserratlight') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -2358,7 +2358,7 @@ body #to_top:focus {
 
 .single_top_bar {
     padding: 50px 0px;
-    background: url(images/footer-bg.jpg) no-repeat;
+    background: url(https://exa.fansub.cc/wp-content/themes/bloggers-lite/images/footer-bg.jpg) no-repeat;
     background-size: cover;
     position: relative;
     min-height: 200px;
