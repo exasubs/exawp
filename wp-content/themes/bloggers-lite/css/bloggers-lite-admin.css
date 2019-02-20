@@ -1,0 +1,41 @@
+.bloggers-wrap .bloggers-welcome-logo {
+    background-image: url("../images/solwin-logo.png");
+    background-size: 100%;
+    background-position: top;
+    width: 160px;
+}
+.bloggers-wrap .feature-section.three-col .plugin_area {
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    width: 29.8% !important;
+    padding: 15px 0 0;
+    position: relative;
+    text-align: center;
+}
+.bloggers-wrap .feature-section.three-col .action_bar {
+    background: #cccccc;
+    padding: 15px;
+    margin-top: 15px;
+    float: left;
+    width: calc(100% - 30px);
+}
+.bloggers-wrap .feature-section.three-col .action_bar .plugin_name {
+    float: left;
+    width: calc(100% - 87px);
+    line-height: 30px;
+    text-align: left;
+}
+.bloggers-wrap .recommended-actions-section .plugin_area {
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    position: relative;
+    width: calc(100% - 32px);
+    margin: 15px 0;
+}
+.bloggers-wrap .recommended-actions-section .plugin_area > div {
+    margin-bottom: 1em;
+}
+.bloggers-wrap .feature-section h3 i {
+    line-height: 35px;
+}

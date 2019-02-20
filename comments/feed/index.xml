@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Komentar untuk exasubs</title>
+	<atom:link href="https://exa.fansub.cc/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://exa.fansub.cc/</link>
+	<description>Tidak akan cukup jika hanya sebuah kecupan</description>
+	<lastBuildDate>Fri, 22 Sep 2017 15:47:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+	<item>
+		<title>Komentar di [Film Bioskop]  Date A Live Movie &#8211; Mayuri Judgment BD Takarir Indonesia oleh nickfuadfm</title>
+		<link>https://exa.fansub.cc/2016/03/10/dal-movie-date-a-live-movie-bd/#comment-2</link>
+		<dc:creator><![CDATA[nickfuadfm]]></dc:creator>
+		<pubDate>Fri, 22 Sep 2017 15:47:21 +0000</pubDate>
+		<guid isPermaLink="false">https://exasubs.wordpress.com/?p=7#comment-2</guid>
+		<description><![CDATA[makasih min...]]></description>
+		<content:encoded><![CDATA[<p>makasih min&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
